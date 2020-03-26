@@ -1,5 +1,7 @@
 # Binary Heaps
 
+[Implementation in TypeScript](https://gist.github.com/KiaFarhang/c508051a910feb91191bd1f716af63fd)
+
 A type of tree, similar to a binary search tree - but with extra rules. Used commonly for priority queues and graph traversal.
 
 For both types:
